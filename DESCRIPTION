@@ -1,0 +1,10 @@
+Package: sverforest
+Type: Package
+Title: Swedish Forestry
+Version: 0.1
+Date: 2016-01-15
+Author: Mateusz Liziniewicz
+Maintainer:  <mateusz.liziniewiczl@slu.se>
+Description: The functions and models used in Swedish forestry
+License: No license
+LazyData: TRUE
