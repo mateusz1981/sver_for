@@ -6,5 +6,6 @@ Date: 2016-01-15
 Author: Mateusz Liziniewicz
 Maintainer:  <mateusz.liziniewiczl@slu.se>
 Description: The functions and models used in Swedish forestry
-License: No license
+License: GPL-3
 LazyData: TRUE
+
